@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ggqpRWN/linkedinbackground-01-01.png" alt="linkedinbackground-01-01" border="0">
+<img src="https://i.ibb.co/ggqpRWN/linkedinbackground-01-01.png" style=": 100%" />
 
 <h1>Hi there 👋, I'm Vuk Savovic</h1>  
 
