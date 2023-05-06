@@ -1,1 +1,6 @@
-0 1-.512.136Z" fill="#000"/></svg>
+<img src="https://nordhype.com/githubImages/Frame 2.jpg"></img>
+
+<br>
+
+<img src="https://nordhype.com/githubImages/About.jpg"></img>
+
