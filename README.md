@@ -1,13 +1,22 @@
- <img style="border-radius:20px; display:block" src="https://i.ibb.co/ggqpRWN/linkedinbackground-01-01.png" alt="alt text" width="100%">
- 
- <div>
- <br> <br>
-    <h1 align="center" style="line-height:1; display:flex; justify-content:center; border:none"><span>Hi there</span> I'm Vuk Savovic &#128513</h1>
-    <h3 align="center" style="line-height:0.4">frontend developer</h3>
-</div>
+ <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: red;
+          color: white;
+        }
+      </style>
 
-<br><br>
-<p style="max-width:700px; margin:0 auto;">Lorem ipsum dolor sit amet consectetur adipiscing elit, massa mattis sollicitudin tempus parturient curabitur commodo inceptos, nam posuere orci turpis class in. Aenean ullamcorper vel cum mus mollis quis metus, suscipit mattis inceptos vehicula magna litora. Per placerat magnis blandit habitant integer pretium, molestie iaculis vulputate dictum scelerisque natoque nam, quis neque ante ultricies nisi. Varius nisl elementum platea faucibus ornare nascetur, euismod aliquet dictum accumsan proin, sociis arcu hac sem gravida. </p>
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 <!--
 **vucasavovic/vucasavovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
