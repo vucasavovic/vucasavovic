@@ -1,6 +1,5 @@
-<img src="https://nordhype.com/githubImages/Frame 2.jpg"></img>
+<img src="https://nordhype.com/githubImages/about.jpg"></img>
 
 <br>
 
-<img src="https://nordhype.com/githubImages/About.jpg"></img>
-
+ 
