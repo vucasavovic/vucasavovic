@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/ggqpRWN/linkedinbackground-01-01.png" alt="linkedinbackground-01-01" border="0">
+
 <h1>Hi there 👋, I'm Vuk Savovic</h1>  
 
 <!--
