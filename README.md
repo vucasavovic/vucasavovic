@@ -5,4 +5,4 @@
 
 <img src="https://nordhype.com/githubImages/skills.jpg"></img>
  
-<div>Find me at <a href="https://www.nordhype.com/">Nordhype.com</a></div>
+
