@@ -4,15 +4,13 @@
 🚀 **Building awesome projects with Nuxt, Nest, PixiJS & more!**  
 📫 **Reach me at:** [your.email@example.com](mailto:your.email@example.com) | [yourwebsite.com](https://yourwebsite.com)  
 
----
-
+ 
 ## 🌟 About Me  
 
 - 🔭 I’m currently working on **a social media content calendar app**  
 - 🌱 Learning **PixiJS, advanced Nuxt 3 & graphQL**  
 - 🎮 Fun fact: I love **retro gaming aesthetics, cooking, **  
-
----
+ 
 
 ## 🛠 Tech Stack  
 
