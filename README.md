@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack  
 
-**Frontend:** Vue.js, Nuxt, TailwindCSS, PixiJS ... 
+**Frontend:** Next.js, Nuxt, TailwindCSS, PixiJS ... 
 **Backend:** Strapi, Node.js, Nest.js, Firebase  
 **Other:** Figma , Illustrator, Photoshop
  
